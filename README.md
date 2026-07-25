@@ -8,7 +8,7 @@
     - **JavaScript**
     - **React.js**
 
-<img width="6000" height="4000" alt="pexels-harold-vasquez-853421-2653362" src="https://github.com/user-attachments/assets/34931df1-be17-4157-a32c-70853b0da45d" />
+
 
 
 
