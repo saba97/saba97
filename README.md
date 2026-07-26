@@ -7,17 +7,18 @@ I'm a Front-End Developer passionate about creating modern, responsive and user-
 I enjoy transforming ideas into clean interfaces with a strong focus on design, performance and usability.
 ## About Me
 
-👩🏻‍💻 Front-End Developer focused on React ecosystem
+- Front-End Developer focused on React ecosystem
 
-🌱 Currently learning TypeScript, Next.js and advanced React patterns
+- Currently learning TypeScript, Next.js and advanced React patterns
 
-🎨 Interested in UI/UX and creating elegant digital experiences
+- Interested in UI/UX and creating elegant digital experiences
 
-🚀 Building projects that combine clean code with beautiful design
+- Building projects that combine clean code with beautiful design
+
 
 ## Tech Stack
 
-### Frontend
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-7A263A?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-7A263A?style=flat-square&logo=css3&logoColor=white)
