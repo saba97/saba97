@@ -39,6 +39,7 @@ A modern cafe website designed with a focus on elegant visuals, responsive layou
 
 **Tech Stack:**
 HTML • CSS • JavaScript
+
 ---
 
 ### 💄 BM by Saba
