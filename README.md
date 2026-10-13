@@ -40,7 +40,9 @@ A modern cafe website designed with a focus on elegant visuals, responsive layou
 
 **Tech Stack:**
 HTML • CSS • JavaScript
-
+<p>
+demo:https://saba97.github.io/Cafe-Saba/
+</p>
 ---
 
 ### 💄 BM by Saba
@@ -49,6 +51,9 @@ A beauty brand website concept focused on clean design, modern aesthetics and re
 
 **Tech Stack:**
 HTML • CSS • JavaScript
+<p>
+  demo:https://saba97.github.io/BM-By-Saba/
+</p>
 
 ---
 ### 🌦 Weather App
@@ -57,10 +62,12 @@ A React-based weather application that fetches and displays real-time weather in
 
 **Tech Stack:**
 React • JavaScript • CSS
+<p>
+  demo:https://saba97.github.io/weather-app/
+</p>
 
 ---
-### 🍱 LunchMate (In Progress)
-
+### 🍱LunchMate (In Progress)
 A modern meal planning application currently under development.
 
 Built with a focus on clean UI, responsive design and a smooth user experience.
